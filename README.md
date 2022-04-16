@@ -1,1 +1,1 @@
-# strapi_auth
+# Google_auth_provider
