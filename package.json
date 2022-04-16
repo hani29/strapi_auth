@@ -1,6 +1,9 @@
 {
   "name": "good-old-react-authentication-flow",
   "homepage": "https://Abdulkareemrox.github.io/Google_auth_provider/",
+  "engines": {
+    "node": "14.18.0"
+  },
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
